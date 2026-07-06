@@ -1,5 +1,3 @@
-# .github
-Organization Workflow
 # 🚀 Organization Contribution Workflow Guide
 
 Welcome to the team! To keep our main production code secure and stable on our GitHub Free plan, this organization uses a **Fork & Pull Request workflow**. 
